@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "RescueSDK"
+  s.name         = "RescueSDK-mod"
   s.version      = "5.11"
   s.summary      = "LogMeIn Rescue SDK for iOS."
   s.description  = <<-DESC
